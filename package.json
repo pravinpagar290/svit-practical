@@ -1,0 +1,24 @@
+{
+  "name": "practical",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/pravinpagar290/svit-practical#readme",
+  "bugs": {
+    "url": "https://github.com/pravinpagar290/svit-practical/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravinpagar290/svit-practical.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
